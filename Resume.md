@@ -29,7 +29,7 @@ Full-Stack Developer ที่มีประสบการณ์กว่า 6
 * ออกแบบและพัฒนา RESTful APIs และ GraphQlเพื่อเชื่อมต่อระหว่าง Frontend และบริการต่างๆ ของระบบ
 * ทำงานร่วมกับทีม Product และ Designer อย่างใกล้ชิดเพื่อแปลง Requirement และ UI/UX Design ให้เป็นฟีเจอร์ที่ใช้งานได้จริง
 * ปรับปรุงประสิทธิภาพของฐานข้อมูล MongoDB และ Query เพื่อลดระยะเวลาในการโหลดข้อมูลลง 15%
-* Revrame 
+* ผลงาน: Revrame CPBrandSit
 
 **Programmer (Front-End)** | ENRES | _2022 – 2022_
 * รับผิดชอบการพัฒนา User Interface (UI) ของระบบ Dashboard สำหรับลูกค้าโดยใช้ React และ TypeScript
