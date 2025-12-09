@@ -15,14 +15,14 @@
 | :--- | :--- |
 | **Front-End Development** | **Next.js**, **React**, styled-components, **Tailwind CSS**, Ant Design (AntD), Line LIFF, **Tanstack Query** (State/Data Fetching), **Zustand** (State Management) |
 | **Back-End Development** | **NestJS**, **GraphQL**, Dialogflow, ASP Classic |
-| **Testing & Quality** | **Jest** (Unit & Integration Testing) |
+| **Testing & Quality** | **Jest** (Unit Testing) |
 | **Database Systems** | **PostgreSQL**, **MongoDB**, MySQL, Redis, Firebase |
 
 ---
 
 ## 🚀 Professional Experience (6+ Years)
 
-### Full Stack Developer (Freelance/Self-Employed)
+### Full Stack Developer
 **Praneat**
 
 * **Duration:** July 2022 – Present (3 Years 6 Months)
