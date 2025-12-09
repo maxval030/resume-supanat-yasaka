@@ -1,5 +1,3 @@
-# 📄 Resume: Supanat Yasaka
-
 ## 👤 Personal Information
 
 * **Name:** Supanat Yasaka
