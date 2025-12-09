@@ -20,10 +20,10 @@
 
 ---
 
-## 🚀 Professional Experience (6+ Years)
+## 🚀 Experience
 
 ### Full Stack Developer
-**Praneat (Freelance/Self-Employed)**
+**Praneat**
 
 * **Duration:** July 2022 – Present (3 Years 6 Months)
 
