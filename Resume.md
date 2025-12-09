@@ -1,7 +1,7 @@
 # 📄 Resume: Supanat Yasaka
 
 ## 👤 Personal Information
-
+![profile](https://i.ibb.co/rf0VzxjX/Untitled-design.jpg)
 * **Name:** Supanat Yasaka
 * **Current Role:** Full Stack Developer
 * **Phone:** 0623494488
@@ -35,7 +35,7 @@
     * Developed the full stack for [https://www.visitforestias.com/](https://www.visitforestias.com/) using **NestJS** (Backend), **Next.js** (Frontend), and **MongoDB**.
     * Implemented a **Next.js** Full Stack Framework with **Firebase** to power the CMS for the "Buddy Thai" anti-bullying platform.
 * **HR System Automation via Line OA (Official Account):**
-    * Developed an automated HR Check-in/attendance tracking system integrated with **Dialogflow** for natural language context recognition.
+    * Developed an HR Check-in/attendance tracking system integrated with **Dialogflow** for natural language context recognition.
     * Created a leave request system using **Line LIFF** (Front-End) with automated notifications (Line & Email) for HR and team leads, significantly **streamlining workflow**.
     * Designed and deployed an automated system for notifying employees of annual and monthly holidays.
 
