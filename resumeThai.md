@@ -13,9 +13,9 @@
 
 | หมวดหมู่ | ทักษะ |
 | :--- | :--- |
-| **Front-End** | **Next.js**, **React**, styled-components, **Tailwind CSS**, Ant Design (AntD), Line LIFF, **Tanstack Query** (การดึงข้อมูล/จัดการสถานะ), **Zustand** (การจัดการสถานะ) |
+| **Front-End** | **Next.js**, **React**, styled-components, **Tailwind CSS**, Ant Design (AntD), Line LIFF, **Tanstack Query** (State/Data Fetching), **Zustand** (State Management) |
 | **Back-End** | **NestJS**, **GraphQL**, Dialogflow, ASP Classic |
-| **Test** | **Jest** (Unit & Integration Testing) |
+| **Test** | **Jest** (Unit Testing) |
 | **Database** | **PostgreSQL**, **MongoDB**, MySQL, Redis, Firebase |
 
 ---
