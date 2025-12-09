@@ -13,31 +13,31 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Front-End Development** | **Next.js**, **React**, styled-components, **Tailwind CSS**, Ant Design (AntD), Line LIFF, **Tanstack Query** (State/Data Fetching), **Zustand** (State Management) |
-| **Back-End Development** | **NestJS**, **GraphQL**, Dialogflow, ASP Classic |
-| **Testing & Quality** | **Jest** (Unit Testing) |
-| **Database Systems** | **PostgreSQL**, **MongoDB**, MySQL, Redis, Firebase |
+| **Front-End** | **Next.js**, **React**, styled-components, **Tailwind CSS**, Ant Design (AntD), Line LIFF, **Tanstack Query** (State/Data Fetching), **Zustand** (State Management) |
+| **Back-End** | **NestJS**, **GraphQL**, Dialogflow, ASP Classic |
+| **Testing** | **Jest** (Unit Testing) |
+| **Database** | **PostgreSQL**, **MongoDB**, MySQL, Redis, Firebase |
 
 ---
 
 ## 🚀 Professional Experience (6+ Years)
 
 ### Full Stack Developer
-**Praneat**
+**Praneat (Freelance/Self-Employed)**
 
 * **Duration:** July 2022 – Present (3 Years 6 Months)
 
 **Key Achievements & Responsibilities:**
 
 * **High-Impact Full Stack Web Development:**
-    * Architected and developed a comprehensive **CMS** for [https://www.inthe8ight.com/en](https://www.inthe8ight.com/en) using **Next.js** (Frontend) and **NestJS** (Backend), including a custom voting system.
-    * Led the complete Backend revamp of the corporate website [https://www.cpbrandsite.com](https://www.cpbrandsite.com), migrating the system to **NestJS** and **MySQL**, and ensuring seamless legacy data integration.
-    * Developed the full stack for [https://www.visitforestias.com/](https://www.visitforestias.com/) using **NestJS** (Backend), **Next.js** (Frontend), and **MongoDB**, focusing on high performance and scalability.
-    * Implemented a full stack **Next.js** framework with **Firebase** to power the CMS for the "Buddy Thai" anti-bullying platform.
+    * Designed and developed a comprehensive **CMS** for [https://www.inthe8ight.com/en](https://www.inthe8ight.com/en) using **Next.js** (Frontend) and **NestJS** (Backend).
+    * Led the complete Backend revamp of the CP recipe and product promotion website [https://www.cpbrandsite.com](https://www.cpbrandsite.com), migrating the system to **NestJS** and **MySQL**, and ensuring seamless legacy data integration.
+    * Developed the full stack for [https://www.visitforestias.com/](https://www.visitforestias.com/) using **NestJS** (Backend), **Next.js** (Frontend), and **MongoDB**.
+    * Implemented a **Next.js** Full Stack Framework with **Firebase** to power the CMS for the "Buddy Thai" anti-bullying platform.
 * **HR System Automation via Line OA (Official Account):**
-    * Developed an automated HR check-in/attendance system integrated with **Dialogflow** for natural language context recognition.
-    * Created a leave request system using **Line LIFF** (Front-End) with automated notifications (Line & Email) for HR and team leads, streamlining workflow.
-    * Designed and implemented a system for automated annual and monthly holiday notifications to all employees.
+    * Developed an automated HR Check-in/attendance tracking system integrated with **Dialogflow** for natural language context recognition.
+    * Created a leave request system using **Line LIFF** (Front-End) with automated notifications (Line & Email) for HR and team leads, significantly **streamlining workflow**.
+    * Designed and deployed an automated system for notifying employees of annual and monthly holidays.
 
 ---
 
@@ -63,5 +63,3 @@
 
 * **ERP System Design:** Designed and implemented a custom **Enterprise Resource Planning (ERP)** system to optimize internal business processes.
 * **Legacy System Modernization:** Developed an internal document circulation and organizational management system for a government agency using **ASP Classic**.
-
----
