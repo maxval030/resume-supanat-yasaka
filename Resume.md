@@ -11,8 +11,8 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Front-End** | **Next.js**, **React**, styled-components, **Tailwind CSS**, Ant Design (AntD), Line LIFF, **Tanstack Query** (State/Data Fetching), **Zustand** (State Management) |
-| **Back-End** | **NestJS**, **GraphQL**, Dialogflow, ASP Classic |
+| **Front-End** | **Next.js**, **React**, Svelte, styled-components, **Tailwind CSS**, Ant Design (AntD), Line LIFF, **Tanstack Query** (State/Data Fetching), **Zustand** (State Management) |
+| **Back-End** | **NestJS**, **GraphQL**, **TypeScript**, Nodejs, Javascript, Dialogflow, ASP Classic |
 | **Testing** | **Jest** (Unit Testing) |
 | **Database** | **PostgreSQL**, **MongoDB**, MySQL, Redis, Firebase |
 
